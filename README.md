@@ -29,11 +29,11 @@ test_data.txt   → ID ::: TITLE ::: DESCRIPTION
 ## 📊 Results
 | Model                | Validation Accuracy |
 |-----------------------|---------------------|
-| Naive Bayes           | *fill after running* |
-| Logistic Regression   | *fill after running* |
-| Linear SVM             | *fill after running* |
+| Naive Bayes           |0.5004|
+| Logistic Regression   |0.5755|
+| Linear SVM             |0.5676|
 
-Best model: **_(update after running script)_**
+Best model: **_(Logistic Regression)_**
 
 ![Model Comparison](model_comparison.png)
 ![Confusion Matrix](confusion_matrix.png)
