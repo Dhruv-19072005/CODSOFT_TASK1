@@ -65,7 +65,7 @@ CODSOFT_TASK1/
 ```
 
 ## 🎥 Demo
-LinkedIn video demo: *(add your video link here after posting)*
+https://lnkd.in/p/eUE8RSPb
 
 ## 🙌 Acknowledgements
 This project was completed as part of the **CodSoft Machine Learning Internship**.
